@@ -1,3 +1,8 @@
 import streamlit
 
-streamlit.title("My very first streamlit app!")
+streamlit.title("Pokepedia")
+streamlit.header("First generation starters")
+streamlit.text("Pikachu*")
+streamlit.text("Charmander")
+streamlit.text("Bulbasaur")
+streamlit.text("Squirtle")
